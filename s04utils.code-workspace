@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../Library/Python/3.11/lib/python/site-packages/s04utils"
+		},
+		{
+			"path": "../../matlab/AutoStepFinder/python"
+		}
+	],
+	"settings": {}
+}
